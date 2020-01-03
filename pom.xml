@@ -10,6 +10,7 @@ implied. * See the License for the specific language governing permissions and *
   <packaging>bundle</packaging>
   <name>Apache Sling CMS Twitter Plugin</name>
   <description>An Apache Sling CMS plugin to embed a Twitter timeline</description>
+  <url>https://github.com/klcodanr/slingcms-twitter-plugin</url>
 
   <properties>
     <!-- Use UTF-8 -->
@@ -32,6 +33,13 @@ implied. * See the License for the specific language governing permissions and *
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <sonar.login>be238c545cf3af18affdc9167b7e6e0fe38219f9</sonar.login>
   </properties>
+
+  <scm>
+    <url>git@github.com:klcodanr/slingcms-twitter-plugin.git</url>
+    <developerConnection>scm:git:git@github.com:klcodanr/slingcms-twitter-plugin.git</developerConnection>
+    <connection>scm:git:git@github.com:klcodanr/slingcms-twitter-plugin.git</connection>
+    <tag>HEAD</tag>
+  </scm>
 
   <licenses>
     <license>
