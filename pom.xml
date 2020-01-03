@@ -25,6 +25,12 @@ implied. * See the License for the specific language governing permissions and *
     <sling.port>8080</sling.port>
     <sling.username>admin</sling.username>
     <sling.password>admin</sling.password>
+
+    <!-- SonarCloud Properties -->
+    <sonar.projectKey>slingcms-twitter-plugin</sonar.projectKey>
+    <sonar.organization>klcodanr</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>be238c545cf3af18affdc9167b7e6e0fe38219f9</sonar.login>
   </properties>
 
   <licenses>

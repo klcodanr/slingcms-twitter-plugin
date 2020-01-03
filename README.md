@@ -13,6 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  -->
+
+[![CircleCI](https://circleci.com/gh/klcodanr/slingcms-twitter-plugin.svg?style=svg)](https://circleci.com/gh/klcodanr/slingcms-twitter-plugin)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=slingcms-twitter-plugin&metric=alert_status)](https://sonarcloud.io/dashboard?id=slingcms-twitter-plugin
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4cdb00981b134862977f5752ab1b66b4)](https://www.codacy.com/manual/klcodanr/slingcms-twitter-plugin?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=klcodanr/slingcms-twitter-plugin&amp;utm_campaign=Badge_Grade)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 # Apache Sling CMS - Twitter Plugin
 
 A plugin to enable [twitter](https://twitter.com) timelines and follow buttons in the
