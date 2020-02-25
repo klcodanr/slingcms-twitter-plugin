@@ -43,11 +43,11 @@ The components can also be included from any other component using the following
 
 Follow Button:
 
-  `<sling:include path="{some_path}" resourceType="com-danklco/twitter/components/follow-button" />`
+  `<sling:include path="{some_path}" resourceType="danklco-com/twitter/components/follow-button" />`
 
 Timeline Embed:
 
-  `<sling:include path="{some_path}" resourceType="com-danklco/twitter/components/timeline-embed" />`
+  `<sling:include path="{some_path}" resourceType="danklco-com/twitter/components/timeline-embed" />`
 
 ## Building
 
